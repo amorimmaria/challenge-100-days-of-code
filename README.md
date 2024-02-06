@@ -13,9 +13,9 @@ Eu estou embarcando nessa jornada desafiadora e estimulante, e convido você a s
 Durante esse desafio, estarei seguindo o roteiro do [Roadmap](https://roadmap.sh/frontend) e as seguintes metas:
 
 • **VSCode:** Aprender os atalhos de navegação do VSCode.</br>
-• **HTML, CSS e JavaScript:** Relembrar alguns conteúdos da base..</br>
-• **TypeScript:** Revisar, compreender e melhorar a utilização do TypeScript..</br>
-• **React:** Revisar algumas funcionalidades e aprofundar um pouco mais, acompanhando pela documentação..</br>
-• **NextJS versão 14:** Compreender as mudanças que foram feitas nesta versão e entender mais sobre o roteamento do NextJs..</br>
-• **React Native com Expo:** Revisar e compreender mais a fundo o desenvolvimento do React Native com o Expo..</br>
-• **Testes com Jest e Cypress:** Aprender sobre testes unitários e testes automatizados..</br>
+• **HTML, CSS e JavaScript:** Relembrar alguns conteúdos da base.</br>
+• **TypeScript:** Revisar, compreender e melhorar a utilização do TypeScript.</br>
+• **React:** Revisar algumas funcionalidades e aprofundar um pouco mais, acompanhando pela documentação.</br>
+• **NextJS versão 14:** Compreender as mudanças que foram feitas nesta versão e entender mais sobre o roteamento do NextJs.</br>
+• **React Native com Expo:** Revisar e compreender mais a fundo o desenvolvimento do React Native com o Expo.</br>
+• **Testes com Jest e Cypress:** Aprender sobre testes unitários e testes automatizados.</br>
